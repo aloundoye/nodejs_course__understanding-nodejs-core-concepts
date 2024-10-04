@@ -1,0 +1,1 @@
+create a file copied_file.txt
