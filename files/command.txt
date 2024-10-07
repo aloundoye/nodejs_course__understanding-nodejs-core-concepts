@@ -1,1 +1,1 @@
-create a file copied_file.txt
+add to the file test.txt this content:  vcldkjfgklgff  dngklkldfg
