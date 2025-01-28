@@ -1,4 +1,5 @@
 const fs = require("fs/promises");
+const { Buffer } = require("buffer");
 
 
 (async () => {
